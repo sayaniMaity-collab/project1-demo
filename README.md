@@ -1,4 +1,4 @@
-# project1-demo
+# project1-demo on Python
 This is my first git repository.
 <br>
 Author-Sayani Maity
