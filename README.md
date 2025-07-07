@@ -1,5 +1,5 @@
 # project1-demo on Python
-This is my first git repository.
+This is my first git repository on simple Resturant .
 <br>
 Author-Sayani Maity
 #Define the menu of resturant
